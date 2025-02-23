@@ -1,0 +1,89 @@
+## Flervariabelanalys
+
+<style>
+th {text-align: left;}
+</style>
+
+
+<body style="background-color:rgb(255,240,170);">
+ <table style="width:100%">
+ 
+ 
+  <tr>
+    <th><h3> Geogebra </h3></th>
+    <th><h3>Bilder (pdf, png...)</h3></th>
+  </tr>
+
+<tr>
+    <td>[Sfär med snitt, nivåkurva](sphere_plane2.ggb)</td>
+    <td>[Datorgenerering yta](../Pictures/comp_plot.png)</td>
+  </tr>
+
+
+<tr>
+    <td>[Lissajou parameterframställning](Lissajou.ggb)</td>
+    <td>[Tangentplan](../Pictures/tangentplan2v3.pdf)</td>
+  </tr>
+
+
+<tr>
+    <td>[Rymdpolära koordinater, system](rymdpolkoord.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Rymdpolära koordinater, yta](rymdpol_koord.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Tangent Exempel 1](tangentexempel1.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Tangent och derivata](tangentvektParametr.ggb)
+</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>[Tangent Exempel 2](tangentexempel2.ggb)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Parametriserade ytor Exempel](demoparametrytor2.ggb)</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>[Hyperbolisk paraboloid](hyperbolicparaboloidlocked.ggb)</td>
+    <td></td>
+  </tr>
+
+
+
+<tr>
+    <td>[Elliptisk paraboloid](ellipticparaboloid.ggb)</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>[Tayloranpassning](taylorfitposdefin.ggb)</td>
+    <td></td>
+  </tr>
+
+
+
+<tr>
+    <td>[Optimering exempel 1](optimeringex1.ggb)</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>[Lutning plan, max/min-riktning](riktningsderivataplan.ggb)</td>
+    <td></td>
+  </tr>
+
+

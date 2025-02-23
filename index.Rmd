@@ -1,0 +1,149 @@
+---
+output: html_document
+---
+
+<html>
+
+<head>
+<title> Diversehandel för lärare </title>
+<meta name="author" content="Leif Karlsson">
+<meta name="description" content="Bok i linjär algebra; En långsam kurs i fysik (gymnasienivå). Python, programmering. Gratis">
+</head>
+
+<style>
+th {text-align: left;}
+table, th, td {border: 1px solid black;
+  border-collapse: collapse;
+</style>
+
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center;"> Diversehandel för lärare </h1>
+<br>
+ <table style="width:100%">
+  
+  <tr>
+    <th><h2> Matematik </h2></th>
+    <th><h2></h2></th>
+  </tr>
+  
+  <tr>
+    <td  style="width:50%"> <h3>Linjär algebra</h3></td>
+    <td><h3>Diskret</h3></td>
+  </tr>
+  
+  <tr>
+    <td>Bok i linjär algebra. Innehåller grunderna i linjär algebra motsvarande en kurs på universitetsnivå: [Bok/pdf](/Matematik/Linjär_Algebra/LA2v4.pdf) 220502 </td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
+  <!--
+  <tr>
+    <td> Illustrationer Använd ej: [Illustrationer/mybinder](https://mybinder.org/v2/gh/cognitrap/LA.git/HEAD?filepath=%2FIllustr%2Findex.ipynb)</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+    <td>Projektuppgifter Använd ej: [Uppgifter/mybinder](https://mybinder.org/v2/gh/cognitrap/LA.git/HEAD?filepath=index.ipynb) </td>
+    <td></td>
+    </tr>
+    -->
+    
+  <tr>
+    <td>Resurs till Bok: [DEL2](/Matematik/Linjär_Algebra/Del2.pdf)</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+    <td><h3>Flerdimensionell analys</h3></td>
+    <td><h3>  </h3></td>
+  </tr>
+    
+    <!--
+  <tr>
+    <td>Illustrationer(bilder, geogebra): [Geogebradokument](/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html) </td>
+    <td></td>
+    </tr>
+    -->
+    
+</table> 
+
+<hr>
+
+
+ <table style="width:100%">
+  <tr>
+    <th><h2> Fysik </h2></th>
+    <th><h2></h2></th>
+  </tr>
+
+<tr>
+    <td><h3>Långsam fysikkurs</h3></td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>Rörelsebegrepp: [Movement](/Fysik/LångsamFysikkurs/Movement.pdf)</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>Kraftbegrepp: [Force](/Fysik/LångsamFysikkurs/Force.pdf)</td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td>Rörelsemängd: [Momentum](/Fysik/LångsamFysikkurs/Momentum.pdf)</td>
+    <td></td>
+  </tr>
+
+
+<tr>
+    <td>Kaströrelse: [Projectile](/Fysik/LångsamFysikkurs/Projectile.pdf)</td>
+    <td></td>
+  </tr>
+
+<tr>
+    <td>Rotationsrörelse: [Rotation](/Fysik/LångsamFysikkurs/Rotation.pdf)</td>
+    <td></td>
+  </tr>
+
+</table> 
+<hr>
+
+
+<table style="width:100%">
+  <tr>
+    <th><h2>Programmering</h2></th>
+    <th><h2></h2></th>
+  </tr>
+
+
+<tr>
+<!--
+<td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD).</td>
+-->
+
+<td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD?labpath=index.ipynb).</td>
+
+<!--
+<td>Python/Jupyter: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
+-->
+
+<td></td>
+</tr>
+
+</table>
+<hr>
+<br>
+
+<br>
+<footer>&copy; Leif Karlsson 2023 </footer>
+
+</body>
+
+</html>

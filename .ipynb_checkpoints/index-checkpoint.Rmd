@@ -1,0 +1,43 @@
+---
+title: "Diverse"
+output: html_document
+---
+
+## Matematik
+###   Linjär algebra
+####   Bok i linjär algebra: <!-- [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf) -->
+
+
+####     <!-- Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf) -->
+
+
+###   Flerdimensionell analys
+
+[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)
+
+
+#### <!-- -->
+
+
+
+## Fysik
+###    Långsam fysikkurs
+#### Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)
+
+#### Kraftbegrepp: [Force](cognitrap.github.io/Fysik/LångsamFysikkurs/Force.pdf)
+
+#### Rörelsemängd: [Momentum](cognitrap.github.io/Fysik/LångsamFysikkurs/Momentum.pdf)
+
+#### Kaströrelse: [Projectile](cognitrap.github.io/Fysik/LångsamFysikkurs/Projectile.pdf)
+
+#### Rotationsrörelse: [Rotation](cognitrap.github.io/Fysik/LångsamFysikkurs/Rotation.pdf)
+
+
+#### <!-- -->
+#### <!-- -->
+## Programmering:
+
+Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe men det är bara att klicka på länken. 
+[Python3]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb)
+eller gå direkt till github och ladda ner (du måste ha jupyterlab på din dator).
+
