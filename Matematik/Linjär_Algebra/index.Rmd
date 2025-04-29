@@ -33,7 +33,7 @@ table, th, td {border: 1px solid black;
   </tr>
   
   <tr>
-    <td>Bok i linjär algebra. Innehåller grunderna i linjär algebra motsvarande en kurs på universitetsnivå: [Bok/pdf](/Matematik/Linjär_Algebra/LA2v4.pdf) 220502 </td>
+    <td>Bok i linjär algebra. Innehåller grunderna i linjär algebra motsvarande en kurs på universitetsnivå: [Bok/pdf](/Matematik/Linjär_Algebra/LA2v_250429.pdf) 250429 </td>
     <td> </td>
     <td></td>
   </tr>
